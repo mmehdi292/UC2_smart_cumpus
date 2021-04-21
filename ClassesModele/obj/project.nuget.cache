@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLzmWLDn7cGxtWD0+BOQRqLrp/+LREzblevV03HJrzDmMC2o/22i47buP1o/W3CMCSFYJTWp1HRQBy/uGAFDRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\error\\source\\repos\\UC2_Smart_Campus\\ClassesModele\\ClassesModele.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\error\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\error\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

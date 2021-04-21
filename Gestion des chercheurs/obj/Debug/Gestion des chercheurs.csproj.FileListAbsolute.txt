@@ -1,0 +1,41 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Gestion des chercheurs.exe.config
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Gestion des chercheurs.exe
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Gestion des chercheurs.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\MySql.Data.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Google.Protobuf.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Zstandard.Net.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Renci.SshNet.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\System.Memory.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\System.Buffers.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\MySql.Data.xml
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.csprojAssemblyReference.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.exe.config
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.Form1.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.Properties.Resources.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.csproj.GenerateResource.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.csproj.CopyComplete
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.exe
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion des chercheurs.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IAuthentification.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IAuthentification.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IUsersInfo.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IUsersInfo.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\Guna.UI2.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.UserForms.AddCher.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.UserForms.ConsulterCher.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.UserForms.AffectCher.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.Forms.EditCharcheur.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IGetEquipes.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\IGetEquipes.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.Forms.Affectation.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\obj\Debug\Gestion_des_chercheurs.Login.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des chercheurs\bin\Debug\ClassesModele.pdb

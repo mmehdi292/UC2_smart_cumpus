@@ -1,0 +1,9 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\bin\Debug\netstandard2.0\ClassesModele.deps.json
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\bin\Debug\netstandard2.0\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\bin\Debug\netstandard2.0\ClassesModele.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.AssemblyInfoInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.AssemblyInfo.cs
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\ClassesModele\obj\Debug\netstandard2.0\ClassesModele.csprojAssemblyReference.cache

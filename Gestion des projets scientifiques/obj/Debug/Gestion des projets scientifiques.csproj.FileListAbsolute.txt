@@ -1,0 +1,6 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets scientifiques.csprojAssemblyReference.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_productions_scientifiques.BienvenueForm.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_laboratoires_de_recherche.LoginForm.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projets_scientifiques.Properties.Resources.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets scientifiques.csproj.GenerateResource.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets scientifiques.csproj.CoreCompileInputs.cache

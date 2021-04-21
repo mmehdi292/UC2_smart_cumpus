@@ -1,0 +1,41 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.csprojAssemblyReference.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_productions_scientifiques.BienvenueForm.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projets_scientifiques.BienvenueFormChefProjet.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_laboratoires_de_recherche.LoginForm.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_productions_scientifiques.UserControls.Profile.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.csproj.GenerateResource.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Guna.UI2.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\IAuthentification.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\IUsersInfo.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\ClassesModele.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\IAuthentification.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\IUsersInfo.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.csproj.CopyComplete
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projets_scientifiques.UserControls.addProject.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projets_scientifiques.UserControls.ConsulterProjects.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projets_scientifiques.UserControls.DeposerProjet.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\MySql.Data.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Google.Protobuf.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Zstandard.Net.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Renci.SshNet.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\System.Memory.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\System.Buffers.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\MySql.Data.xml
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.exe.config
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_productions_scientifiques.Properties.Resources.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Gestion des projets de rechercher.exe.config
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Gestion des projets de rechercher.exe
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\bin\Debug\Gestion des projets de rechercher.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.exe
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion des projets de rechercher.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projet.Froms.EditProjet.resources
+C:\Users\error\source\repos\UC2_Smart_Campus\Gestion des projets scientifiques\obj\Debug\Gestion_des_projet.Froms.Affectation.resources

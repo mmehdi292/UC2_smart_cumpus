@@ -1,0 +1,12 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\bin\Debug\netstandard2.0\IAuthentification.deps.json
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\bin\Debug\netstandard2.0\IAuthentification.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\bin\Debug\netstandard2.0\IAuthentification.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.csprojAssemblyReference.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.AssemblyInfoInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.AssemblyInfo.cs
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\bin\Debug\netstandard2.0\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\bin\Debug\netstandard2.0\ClassesModele.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IAuthentification\obj\Debug\netstandard2.0\IAuthentification.csproj.CopyComplete

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E95A0534-973F-4E85-8263-9CEF4DDA39C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gestion_des_chercheurs</RootNamespace>
+    <AssemblyName>Gestion des chercheurs</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDclasses\DataBases.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Affectation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Affectation.Designer.cs">
+      <DependentUpon>Affectation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditCharcheur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditCharcheur.Designer.cs">
+      <DependentUpon>EditCharcheur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImplClass\AuthentificationImpl.cs" />
+    <Compile Include="ImplClass\UsersInfoImpl.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserForms\AddCher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserForms\AddCher.Designer.cs">
+      <DependentUpon>AddCher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserForms\AffectCher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserForms\AffectCher.Designer.cs">
+      <DependentUpon>AffectCher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserForms\ConsulterCher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserForms\ConsulterCher.Designer.cs">
+      <DependentUpon>ConsulterCher.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Affectation.resx">
+      <DependentUpon>Affectation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditCharcheur.resx">
+      <DependentUpon>EditCharcheur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserForms\AddCher.resx">
+      <DependentUpon>AddCher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForms\AffectCher.resx">
+      <DependentUpon>AffectCher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForms\ConsulterCher.resx">
+      <DependentUpon>ConsulterCher.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassesModele\ClassesModele.csproj">
+      <Project>{2d41818e-31aa-4c93-accc-0c9e05307fbe}</Project>
+      <Name>ClassesModele</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IAuthentification\IAuthentification.csproj">
+      <Project>{b292d187-5f39-4997-b786-dd6e7e6ec2e0}</Project>
+      <Name>IAuthentification</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IGetEquipes\IGetEquipes.csproj">
+      <Project>{4e67432a-1b5a-45e6-b2cc-a631202cb3e0}</Project>
+      <Name>IGetEquipes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IUsersInfo\IUsersInfo.csproj">
+      <Project>{982cb853-cdfb-485f-8ecd-360fa5635e79}</Project>
+      <Name>IUsersInfo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chemistry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users-group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-of-people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transfer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Project.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\labelImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microscope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CercleA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CercleB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-arrow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.csprojAssemblyReference.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.AssemblyInfoInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.AssemblyInfo.cs
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.csproj.CoreCompileInputs.cache
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\bin\Debug\netstandard2.0\IGetEquipes.deps.json
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\bin\Debug\netstandard2.0\IGetEquipes.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\bin\Debug\netstandard2.0\IGetEquipes.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\bin\Debug\netstandard2.0\ClassesModele.dll
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\bin\Debug\netstandard2.0\ClassesModele.pdb
+C:\Users\error\source\repos\UC2_Smart_Campus\IGetEquipes\obj\Debug\netstandard2.0\IGetEquipes.csproj.CopyComplete
